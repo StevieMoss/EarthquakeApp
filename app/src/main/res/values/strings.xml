@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">smMobileCoursework</string>
+    <string name="map">Map</string>
+    <string name="list">List</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="Option">Options</string>
+
+
+    <string-array name="DropDownTitles">
+        <item>Date</item>
+        <item>Magnitude</item>
+        <item>Depth</item>
+    </string-array>
+
+    <string-array name="list">
+    <item>Bute</item>
+    <item>Newdigate</item>
+    <item>Blairlogie</item>
+        <item>Donegal</item>
+        <item>Filey</item>
+</string-array>
+
+</resources>
+
